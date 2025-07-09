@@ -1,4 +1,4 @@
-#Yigit Efe GİRAZ
+#Yigit Efe GİRAZ#
 
 [Computer Engineering Student]
 
@@ -12,12 +12,12 @@
 
 ---
 
-##Technical Skills
+##Technical Skills##
 
 * **Git Programs:** GitHub
-* **Programming Languages:** [Python,C#]
-* **Database:** [Microsoft SQL Server]
-* **Operating Systems:** [Windows]
+* **Programming Languages:** [Python,C#
+* **Database:** Microsoft SQL Server
+* **Operating Systems:** Windows
 
 ---
 
