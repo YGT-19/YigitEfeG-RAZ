@@ -1,6 +1,6 @@
 # Yigit Efe GİRAZ
 
--Computer Engineering Student
+Computer Engineering Student
 
 ---
 
@@ -23,6 +23,6 @@
 
 ## Project
 
-**DepartentDocumentTransfer** | [https://github.com/YGT-19/DepartentDocumentTransfer]
+**DepartentDocumentTransfer** | https://github.com/YGT-19/DepartentDocumentTransfer
 
 ---
