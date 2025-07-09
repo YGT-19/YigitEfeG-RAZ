@@ -1,4 +1,4 @@
-#Yigit Efe GİRAZ#
+# Yigit Efe GİRAZ
 
 [Computer Engineering Student]
 
@@ -12,7 +12,7 @@
 
 ---
 
-##Technical Skills##
+##T echnical Skills
 
 * **Git Programs:** GitHub
 * **Programming Languages:** [Python,C#
